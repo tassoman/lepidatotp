@@ -26,7 +26,7 @@ Installa le dipendenze, come indicato in precedenza.
 
 Lancia lo script e segui le istruzioni. 
 
-`python lepidaotp.py`
+`python lepidatotp.py`
 
 Si aprirà il browser, effettua l'accesso ottenendo il token OTP via SMS. Poi segui le istruzioni indicate a schermo.
 
